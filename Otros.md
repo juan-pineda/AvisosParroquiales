@@ -7,3 +7,6 @@ También debemos agregar informaciones sobre becas
 
 Majo porfa suba el tutorial de git.
 
+
+https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+
