@@ -1,1 +1,0 @@
-En este archivo pueden encontrar las actividades de Halley al público.
