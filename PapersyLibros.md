@@ -6,6 +6,10 @@
 
 [Cosmic ray detection in space](https://www.sciencedirect.com/science/article/pii/S0146641020300120)
 
+[Using machine learning for model physics: An overview](https://arxiv.org/ftp/arxiv/papers/2002/2002.00416.pdf)
+
+[Space colonization - Challenges and threats](https://www.researchgate.net/profile/Sambuddha_Majumder/publication/338921006_Space_Colonization-_Radiation_challenges_and_requirements/links/5e32e661a6fdccd965780d30/Space-Colonization-Radiation-challenges-and-requirements.pdf)
+
 
 
 
