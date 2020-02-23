@@ -1,4 +1,4 @@
-**Descripción**:El Programa “Becas Iberoamérica. Santander Grado Colombia” está dirigido a estudiantes de pregrado de universidades colombianas que hayan cursado al menos la mitad de los créditos o superado los dos primeros cursos de sus estudios.
+**Descripción**:El Programa “Becas Iberoamérica. Santander Grado Colombia” está dirigido a estudiantes de pregrado de universidades colombianas que hayan cursado al menos la mitad de los créditos o superado los dos primeros cursos de sus estudios.\\
 Fecha:2020
 [ABIERTA CONVOCATORIA PARA EL PROGRAMA DE BECAS IBEROAMERICANA - SANTANDER](https://www.uis.edu.co/webUIS/es/rss/noticia.jsp?id=233&canal=1140.xml&facultad=ppal)
 
