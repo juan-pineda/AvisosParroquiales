@@ -2,13 +2,15 @@
 **Descripción**:Un viaje de invención y descubrimiento
 con el CERN, la NASA y más de 100 museos de todo el mundo.
 
-[Blog miembros Halley: Libreta de ciencia](https://lalibretaciencia.wordpress.com)
+[Blog miembros Halley: Libreta de ciencia]
+(https://lalibretaciencia.wordpress.com)
 **Descripción**:La libreta de ciencia es una plataforma de divulgación científica creada 
 por estudiantes de la universidad industrial de santander  que publica artículos científicos 
 explicados para todo publico.
 
 
-[Canal YT Halley](https://www.youtube.com/channel/UCvEbFDBjjzneAv1_wl8uCww)
+[Canal YT Halley]
+(https://www.youtube.com/channel/UCvEbFDBjjzneAv1_wl8uCww)
 **Descripción**:Pagina de facebook del grupo Halley de la universidad industrial de Santander,
 donde se presentan videos de divulgación científica, charlas y ponencias en general.
 
