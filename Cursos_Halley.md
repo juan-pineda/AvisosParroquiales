@@ -1,6 +1,8 @@
 En este documento pueden encontrar cursos de interés para todos
 
 https://brilliant.org/
+>**Deacripción**:Pagina de ayuda a construir habilidades cuantitativas en matemáticas,
+ciencia e informática con exploraciones interactivas divertidas y desafiantes. 
 
 https://edutin.com/cursos-gratis
 
