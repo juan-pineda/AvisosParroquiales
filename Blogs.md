@@ -1,5 +1,5 @@
-[Once upon a try: invenciones y descubrimientos con el CERN, la NASA y más de 100 museos en todo el mundo](https://artsandculture.google.com/project/once-upon-a-try)
->**Descripción**:Un viaje de invención y descubrimiento
+[Once upon a try: invenciones y descubrimientos con el CERN, la NASA y más de 100 museos en todo el mundo](https://artsandculture.google.com/project/once-upon-a-try)  
+**Descripción**:Un viaje de invención y descubrimiento
 con el CERN, la NASA y más de 100 museos de todo el mundo.
 
 [Blog miembros Halley: Libreta de ciencia]
